@@ -1,4 +1,4 @@
-# Traveling Salesman Problem Combinatório (TSP-BB)
+# Traveling Salesman Problem (TSP)
 
 O TSP se trata de um problema de otimização combinatória da classe NP-difícil bastante conhecido e estudado na literatura.
 
